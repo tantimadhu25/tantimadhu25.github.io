@@ -1,5 +1,5 @@
 window.alert("Please use headphone while listening this recording.There is something we all wana say to you.");
-window.alert("Headphone laga lenaa, phir se bol rhe hai, sun n eke bad acha laga to sabko call karke baat krliyo.");
+window.alert("Waise headphone nahi bhi use kregi to chalega, bas sun ne ke bad, ek hi promise kar ki kabhi royegi nahi jab tak boht zyda urgency na ho, an du will always fihgt back and stand up to ur problems.");
 
 
 $(function()
